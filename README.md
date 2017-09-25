@@ -1,2 +1,4 @@
 # Random
 Mess around
+
+alert();
